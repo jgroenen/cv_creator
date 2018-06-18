@@ -62,6 +62,9 @@
                 <p class="titel"><xsl:value-of select="titel"/></p>
                 <p class="instelling"><xsl:value-of select="instelling"/></p>
                 <p class="omschrijving"><xsl:value-of select="omschrijving" disable-output-escaping="yes"/></p>
+                <xsl:if test="extra">
+                  <p class="extra">* <xsl:value-of select="extra"/></p>
+                </xsl:if>
               </div>
             </xsl:for-each>
 

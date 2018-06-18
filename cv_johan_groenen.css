@@ -72,6 +72,9 @@ em {
 .werkzaamheden {
   margin: 0.4em 0;
 }
+.extra {
+  font-size: 0.8em;
+}
 @page {
   size: A4;
 }
