@@ -5,8 +5,7 @@
   <xsl:template match="/">
     <html>
       <head>
-        <link href="https://fonts.googleapis.com/css?family=EB+Garamond:500|Lato:300,700" rel="stylesheet"/>
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,700|Playfair+Display:400,900" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css?family=Lato:300,700" rel="stylesheet"/>
         <meta name='viewport' content='width=320,initial-scale=1,user-scalable=0'/>
         <link href="cv_johan_groenen.css" rel="stylesheet"/>
       </head>
