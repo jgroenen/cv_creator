@@ -1,0 +1,99 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 100%;
+  line-height: 1.4em;
+  font-weight: 300;
+}
+p {
+  line-height: 1.4em;
+  margin: 0.4em 0;
+  max-width: 32em;
+}
+h1 {
+  font-weight: 100;
+  font-size: 4em;
+  margin: 0.8em 0.4em 0.4em;
+  font-family: 'EB Garamond', serif;
+}
+h2 {
+  font-size: 1.2em;
+  line-height: 1.8em;
+  border-bottom: 1px solid black;
+  max-width: 32em;
+  margin-top: 2rem;
+}
+main {
+  display: flex;
+  margin-bottom: 4em;
+}
+h1,
+h2 {
+  page-break-after: avoid;
+}
+section {
+  page-break-inside: avoid;
+}
+em {
+  font-style: italic;
+}
+.adres {
+  flex-grow: 0;
+  flex-shrink: 0;
+  padding: 0 1.4em;
+  flex-basis: 12em;
+  color: #999;
+  margin-top: 2rem;
+}
+.gegevens {
+  flex-basis: 1;
+}
+.tab {
+  display: inline-block;
+  width: 10em;
+}
+.opleiding,
+.overige,
+.werk {
+  margin: 0.8em 0 1.6em;
+  page-break-inside: avoid;
+}
+.tijd {}
+.titel {
+  font-size: 1.1em;
+  font-weight: 700;
+}
+.bedrijf,
+.instelling,
+.organisatie {
+  font-style: italic;
+  font-weight: 100;
+}
+.omschrijving,
+.werkzaamheden {
+  margin: 0.4em 0;
+}
+@page {
+  size: A4;
+}
+@media only screen and (max-width: 600px) {
+  main {
+    display: block;
+    margin: 2em;
+  }
+  h1 {
+    font-size: 3em;
+    margin: 2rem;
+  }
+  .adres {
+    font-size: 0.9em;
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .tab {
+    width: 8em;
+  }
+  h1 {
+    font-size: 2em;
+  }
+}

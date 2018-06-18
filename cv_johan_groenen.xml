@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cv_johan_groenen.xsl" ?>
+<cv>
+
+  <!-- werk -->
+
+  <werk>
+    <van>2017</van>
+    <tot>heden</tot>
+    <titel>Mede-eigenaar TiltShift</titel>
+    <bedrijf>TiltShift (digital transformation design)</bedrijf>
+    <werkzaamheden>innovatieadvies en -begeleiding, digitale strategie, organiseren innovatietrajecten voor gemeenten, ontwikkeling en onderhoud applicaties voor gemeenten</werkzaamheden>
+  </werk>
+
+  <werk>
+    <van>2015</van>
+    <tot>heden</tot>
+    <titel>Projectcoördinator, strateeg Innovatieve Toepassingen</titel>
+    <bedrijf>Datalab Amsterdam, Gemeente Amsterdam</bedrijf>
+    <werkzaamheden>innovatieadvies, ontwikkelen Fixxx-methode, begeleiden Fixxx-trajecten, analyse van processen en probleemcontext, begeleiden van <![CDATA[<em>ideation</em>]]>, opstellen product backlog en development roadmap, controle op kwaliteit oplossingen</werkzaamheden>
+  </werk>
+
+  <werk>
+    <van>2017</van>
+    <tot>heden</tot>
+    <titel>Bestuurslid Stichting Code for NL</titel>
+    <bedrijf>Stichting Code for NL</bedrijf>
+    <werkzaamheden>Code for NL is het Nederlandse netwerk van developers en designers die samenwerken aan de digitale overheid</werkzaamheden>
+  </werk>
+
+  <werk>
+    <van>2013</van>
+    <tot>heden</tot>
+    <titel>Eigenaar APItecture</titel>
+    <bedrijf>APItecture (intelligent data services)</bedrijf>
+    <werkzaamheden>data advies, data science, AI, ontwikkeling, beheer en onderhoud data services (API) en web applicaties</werkzaamheden>
+  </werk>
+
+  <werk>
+    <van>2014</van>
+    <tot>2015</tot>
+    <titel>Head of product development</titel>
+    <bedrijf>The Next Ad (social media advertising platform)</bedrijf>
+    <werkzaamheden>formeren en aansturen development team, in kaart brengen wensen verschillende stakeholders, opstellen development roadmap, controle op kwaliteit en voortgang</werkzaamheden>
+  </werk>
+
+  <werk>
+    <van>2013</van>
+    <tot>2014</tot>
+    <titel>Projectmanager, platform architect, developer</titel>
+    <bedrijf>Media Injection (social media management platform)</bedrijf>
+    <werkzaamheden>opstellen architectuur en strategie, controle op kwaliteit en voortgang deelprojecten, opleiden developers</werkzaamheden>
+  </werk>
+
+  <werk>
+    <van>2009</van>
+    <tot>2013</tot>
+    <titel>Projectmanager, software architect, developer</titel>
+    <bedrijf>Thirdwave web development</bedrijf>
+    <werkzaamheden>in kaart brengen wensen opdrachtgevers, opstellen development roadmap, ontwerpen productarchitectuur, ontwikkeling, beheer en onderhoud applicaties</werkzaamheden>
+  </werk>
+
+  <werk>
+    <van>2006</van>
+    <tot>2009</tot>
+    <titel>Werkgroepdocent</titel>
+    <bedrijf>LIACS, Universiteit Leiden</bedrijf>
+    <werkzaamheden>werkgroepdocent/assistent formele logica, programmeermethoden, compiler constructie, digitale technieken, computerarchitectuur</werkzaamheden>
+  </werk>
+
+  <!-- opleiding -->
+
+  <opleiding>
+    <van>2008</van>
+    <tot>2012</tot>
+    <titel>Master Computer Science</titel>
+    <instelling>LIACS, Universiteit Leiden</instelling>
+    <omschrijving>analyseren en simuleren natuurlijke processen, systemen en emergent gedrag; neurale netwerken, zwermintelligentie, evolutie, dna computing</omschrijving>
+  </opleiding>
+
+  <opleiding>
+    <van>2003</van>
+    <tot>2008</tot>
+    <titel>Bachelor Computer Science</titel>
+    <instelling>LIACS, Universiteit Leiden</instelling>
+    <omschrijving>theoretische informatica; analyse processen, systemen, algoritmes, datastructuren</omschrijving>
+  </opleiding>
+
+  <!-- cursus -->
+
+  <cursus>Design Thinking for Innovation</cursus>
+  <cursus>Effective Problem-Solving and Decision-Making</cursus>
+  <cursus>Model Thinking</cursus>
+  <cursus>On Strategy: What managers can learn from philosophy</cursus>
+  <cursus>Competitive Strategy</cursus>
+  <cursus>Advanced Competitive Strategy</cursus>
+  <cursus>Strategic Organization Design</cursus>
+  <cursus>Machine Learning</cursus>
+
+  <!-- honour -->
+
+  <honour>Erelid Studenten Muziekgezelschap "Sempre Crescendo"</honour>
+
+  <!-- overige -->
+
+  <overige>
+    <van>2017</van>
+    <tot>heden</tot>
+    <titel>Fellow</titel>
+    <organisatie>Code for All</organisatie>
+    <omschrijving>Code for All is een wereldwijd netwerk van civic tech organisaties</omschrijving>
+  </overige>
+
+  <overige>
+    <van>2015</van>
+    <tot>heden</tot>
+    <titel>Organisator</titel>
+    <organisatie>Permanent Beta</organisatie>
+    <omschrijving>Permanent Beta is een nationale meetup community; een kennisdeeltjesversneller die mensen samenbrengt om kennis te delen over technologie, wetenschap en kunst</omschrijving>
+  </overige>
+
+  <overige>
+    <van>2003</van>
+    <tot>2005</tot>
+    <titel>Bestuurslid</titel>
+    <organisatie>Studenten Muziekgezelschap "Sempre Crescendo"</organisatie>
+    <omschrijving>dagelijks bestuur oudste studentenorkest van Nederland&#160;(1831)</omschrijving>
+  </overige>
+
+  <!-- weetje -->
+
+  <weetje>speel ik trompet in de Bitterballs Jazzband (Leiden)</weetje>
+  <weetje>zing ik tenor in koor Boeuf Majeur (Amsterdam)</weetje>
+  <weetje>heb ik veel ongelezen boeken</weetje>
+  <weetje>ben ik sinds 25 februari vader van Karel</weetje>
+
+</cv>
