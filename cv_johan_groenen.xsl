@@ -5,7 +5,7 @@
   <xsl:template match="/">
     <html>
       <head>
-        <link href="https://use.typekit.net/epb5fbr.css" rel="stylesheet">
+        <link href="https://use.typekit.net/epb5fbr.css" rel="stylesheet"/>
         <meta name='viewport' content='width=320,initial-scale=1,user-scalable=0'/>
         <link href="cv_johan_groenen.css" rel="stylesheet"/>
       </head>
