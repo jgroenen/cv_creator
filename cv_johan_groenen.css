@@ -102,9 +102,9 @@ em {
     font-weight: 100;
     font-size: 3em;
   }
-
+}
 @media only print {
-  body{
-    font-size: 70%;
+  html, body {
+    font-size: 85%;
   }
 }
