@@ -5,7 +5,7 @@
   <xsl:template match="/">
     <html>
       <head>
-        <link href="https://fonts.googleapis.com/css?family=Lato:300,700" rel="stylesheet"/>
+        <link href="https://use.typekit.net/epb5fbr.css" rel="stylesheet"/>
         <meta name='viewport' content='width=320,initial-scale=1,user-scalable=0'/>
         <link href="cv_johan_groenen.css" rel="stylesheet"/>
       </head>
@@ -50,22 +50,24 @@
               </div>
             </xsl:for-each>
 
-            <h2>Opleiding</h2>
+            <section>
+              <h2>Opleiding</h2>
 
-            <xsl:for-each select="//opleiding">
-              <div class="opleiding">
-                <p class="tijd"><xsl:value-of select="van"/>
-                  -
+              <xsl:for-each select="//opleiding">
+                <div class="opleiding">
+                  <p class="tijd"><xsl:value-of select="van"/>
+                    -
 
-                  <xsl:value-of select="tot"/></p>
-                <p class="titel"><xsl:value-of select="titel"/></p>
-                <p class="instelling"><xsl:value-of select="instelling"/></p>
-                <p class="omschrijving"><xsl:value-of select="omschrijving" disable-output-escaping="yes"/></p>
-                <xsl:if test="extra">
-                  <p class="extra">* <xsl:value-of select="extra"/></p>
-                </xsl:if>
-              </div>
-            </xsl:for-each>
+                    <xsl:value-of select="tot"/></p>
+                  <p class="titel"><xsl:value-of select="titel"/></p>
+                  <p class="instelling"><xsl:value-of select="instelling"/></p>
+                  <p class="omschrijving"><xsl:value-of select="omschrijving" disable-output-escaping="yes"/></p>
+                  <xsl:if test="extra">
+                    <p class="extra">* <xsl:value-of select="extra"/></p>
+                  </xsl:if>
+                </div>
+              </xsl:for-each>
+            </section>
 
             <h2>Cursussen (Coursera)</h2>
 
